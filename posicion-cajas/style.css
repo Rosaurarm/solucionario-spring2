@@ -1,0 +1,28 @@
+.red{
+  position: absolute;
+  background: red;
+  width: 400px;
+  height: 400px;
+  left: 250px;
+}
+.purple{
+  background: purple;
+  position: relative;
+  width: 200px;
+  height: 200px;
+  left: 100px;
+  top:100px;
+  }
+.yellow{
+  width: 100px;
+  height: 100px;
+  background: yellow;
+}
+.blue{
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  background: blue;
+  top:700px;
+  margin bottom: 300px;
+}

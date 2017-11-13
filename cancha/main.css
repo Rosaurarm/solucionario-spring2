@@ -1,0 +1,74 @@
+*{
+  margin: 0;
+padding: 0;
+}
+
+.cancha {
+  background: #8CB27C;
+  width: 1000PX;
+  height: 500PX;
+  position: absolute;  */para darle posicion en el centro*/
+  left: 12px;
+  top: 80px;
+}
+
+.perimetro {
+  width: 900px;
+  height: : 450px;
+  border: solid 4px #FFF;
+  position: relative;
+  left: 50px;
+  top:  21px;
+}
+.porteria-izquierda,
+.porteria-derecha {
+  position: relative;
+  width: 130px;
+  height: 200px;
+  border: solid 4px #FFF;
+}
+.porteria-derecha {
+  left: 766px;
+  top:  121;
+}
+.porteria-izquierda {
+  left: -4px;
+  top: -79px;
+}
+.centro-cancha {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: solid 4px  #FFF;
+  top: -287px;
+  left: 346px;
+
+}
+
+.balon1,
+.balon2,
+.balon3 {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background: #fff;
+}
+
+.balon1 {
+  background: red;
+  left: 120px;
+}
+
+.balon2 {
+  background: blue;
+  left: 450px;
+  top: -150px;
+}
+
+.balon3{
+    background: yellow;
+    left:720px;ç
+    top: -325;
+}

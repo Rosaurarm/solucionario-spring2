@@ -1,0 +1,63 @@
+
+.red,
+.blue,
+.green{
+position: static;
+width: 200px;
+height: 200px;
+border: solid 1px #000;
+}
+
+.red,
+.redb,
+.redc  {
+  background: red;
+}
+
+.blue,
+.blueb,
+.bluec {
+  background: blue;
+}
+
+.green,
+.greenb,
+.greenc {
+  background: green;
+}
+
+.redb,
+.blueb,
+.greenb {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  border: solid 1px #000;
+  }
+  .redc,
+  .bluec,
+  .greenc {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border: solid 1px #000;
+    }
+.bluec{
+left: 200px;
+}
+.redd,
+.blued,
+.greend {
+  margin: 0px;
+  padding: 0px;
+  position:absolute;
+  width: 200px;
+  height: 200px;
+  border:solid
+}
+.blue{
+  left: 200px;
+  }
+.green{
+  top: 200px
+}
