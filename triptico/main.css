@@ -1,0 +1,38 @@
+.yellow-square{
+  background-color:yeloww;
+  text-align: center;
+  padding: : 50px;
+  margin: 0;
+
+}
+
+body {
+  margin: 0;
+  padding:0;
+}
+
+/*article{
+  display: inline-block;
+  border: 1px  solid black;
+  width: 32%;
+  }*/
+
+.tercio-de-triptico{
+  display: inline-block;
+  border: 1px solid black;
+  width: 32%;
+  height:400px;
+
+}
+
+.tercio-de-triptico > h3{
+  text-align: center;
+}
+
+.tercio-de-triptico >p{
+  margin: 20px 25px;
+}
+.tercio-de-triptico > image{
+    margin: 20 auto;
+    display: block;
+  }

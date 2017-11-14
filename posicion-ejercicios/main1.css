@@ -1,0 +1,17 @@
+<div{
+  background:blue;
+  width:100px;
+  height:100px;
+  color:white;
+  }
+
+#uno {
+  position:relative absolute;
+  float:left;
+  left: 30px;
+}
+
+#imagen{
+  position: relative;
+
+}

@@ -1,0 +1,33 @@
+.gray-box{
+  border: 1px dashed black;
+  float: left;
+  width: 150px;
+  background: #e3e3e3;
+  color:gray;
+  font-family: sans-serif;
+
+}
+
+p{
+  clear: left;
+}
+.active {
+background-color: white;
+padding: 10px 0;
+color: blue;
+position: relative;
+bottom: 10px;
+
+}
+.gray-box > img{
+  display: block;
+  margin: 0 auto;
+}
+
+.gray-box>h3, .gray-box>h6{
+  text-align: center;
+  margin: 10px;
+  }
+-gray-box>p{
+  padding: 10px;
+}
